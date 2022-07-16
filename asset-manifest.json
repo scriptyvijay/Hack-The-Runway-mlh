@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hack-The-Runway-mlh/static/css/main.964f4c3d.css",
+    "main.js": "/Hack-The-Runway-mlh/static/js/main.98169887.js",
+    "static/media/background.png": "/Hack-The-Runway-mlh/static/media/background.d7ba8fdb224aa64e3ec2.png",
+    "static/media/14.png": "/Hack-The-Runway-mlh/static/media/14.c1ff3afa728b0d3d49af.png",
+    "static/media/19.png": "/Hack-The-Runway-mlh/static/media/19.c0fecb006b9e0e5f7a44.png",
+    "static/media/13.png": "/Hack-The-Runway-mlh/static/media/13.0843a60caf1aa0dfc688.png",
+    "static/media/18.png": "/Hack-The-Runway-mlh/static/media/18.5db071f32c462a98edbc.png",
+    "static/media/20.png": "/Hack-The-Runway-mlh/static/media/20.1a42c16e01eadba421a6.png",
+    "static/media/12.png": "/Hack-The-Runway-mlh/static/media/12.3caad339e6a1f5c02d48.png",
+    "static/media/17.png": "/Hack-The-Runway-mlh/static/media/17.f261cf68ba03d70b0ea4.png",
+    "static/media/21.png": "/Hack-The-Runway-mlh/static/media/21.b4c9f68efa2295903c30.png",
+    "static/media/15.png": "/Hack-The-Runway-mlh/static/media/15.245cb70719e489f4c71f.png",
+    "static/media/16.png": "/Hack-The-Runway-mlh/static/media/16.4c6fa4e9b612fa6dccc4.png",
+    "index.html": "/Hack-The-Runway-mlh/index.html",
+    "main.964f4c3d.css.map": "/Hack-The-Runway-mlh/static/css/main.964f4c3d.css.map",
+    "main.98169887.js.map": "/Hack-The-Runway-mlh/static/js/main.98169887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964f4c3d.css",
+    "static/js/main.98169887.js"
+  ]
+}
