@@ -1,0 +1,96 @@
+.outfit {
+	height: 100vh;
+	min-width: 1024px;
+	position: relative;
+	background-image: url("../../assets//img/background.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.calender {
+	position: absolute;
+	right: 40px;
+	top: 60px;
+	border: 1px black solid;
+	border-radius: 5px;
+}
+
+.choose-bar {
+	display: flex;
+	width: 50%;
+	background-color: rgba(255, 255, 255, 0.411);
+	justify-content: space-around;
+	align-items: center;
+	border-radius: 5px;
+	position: absolute;
+	top: 60px;
+	left: 40px;
+	padding: 12px;
+	color: black;
+	font-size: 20px;
+}
+
+.genderSelection {
+	display: flex;
+	gap: 5px;
+	cursor: pointer;
+}
+
+.calenderToggle {
+	position: absolute;
+	top: 120px;
+	left: 130px;
+	cursor: pointer;
+}
+
+.date-toggle {
+	cursor: pointer;
+	user-select: none;
+}
+
+.container-model {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.model {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	position: relative;
+	top: 200px;
+	left: 100px;
+	gap: 20px;
+}
+
+.model img {
+	width: 40%;
+	height: 30%;
+	object-fit: cover;
+	user-select: none;
+	justify-self: flex-start;
+}
+
+.icon {
+	width: 50px;
+	height: 50px;
+	cursor: pointer;
+}
+
+.buttonBuy {
+	padding: 10px 50px;
+	background-color: rgb(89, 206, 89);
+	border-radius: 5px;
+	color: white;
+}
+
+.buttonChange {
+	padding: 10px 20px;
+	background-color: rgb(89, 130, 206);
+	border-radius: 5px;
+	color: white;
+}
