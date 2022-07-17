@@ -6,7 +6,7 @@ STYLE LOFT is not an inspiration , It's a Creation.
 
 ## Author
 
--   [Aishwarya Singh](https://www.github.com/aish12)
+-   [Aishwarya Singh](https://github.com/aishsingh12)
 -   [Joshua Collins](https://github.com/Joshuapenielcollins)
 -   [Vijay Choudhary](https://www.github.com/scriptyvijay)
 
