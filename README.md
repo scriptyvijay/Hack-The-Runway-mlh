@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+![Logo](https://gcdnb.pbrd.co/images/6I8KyFCHGpVk.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Style Loft (A Fashion Month Planner)
 
-## Available Scripts
+This is a Stopwatch project where by using the feature of the stopwatch, You can Start, Stop and Reset the Stopwatch.
 
-In the project directory, you can run:
+## Author
 
-### `yarn start`
+-   [Aishwarya Singh](https://www.github.com/octokatherine)
+-   [Joshua Collins](https://www.github.com/octokatherine)
+-   [Vijay Choudhary](https://www.github.com/octokatherine)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Client:** React, React-router-dom, tailwind css, CSS, NPM
 
-### `yarn test`
+## Documentation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Documentation](https://linktodocumentation)
 
-### `yarn build`
+Inspiration
+STYLE LOFT is not an inspiration , It's a Creation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+What it does
+You can take picture of your available outfits and decide when you want to wear it , you can do it by selecting the date in the calendar .
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+How we built it
+First we planned what we're going to build for this week and drew a rough sample and assigned our particular roles for team members and started working according to it .
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Accomplishments that we're proud of
+Creating a working project with in 24hours .
 
-### `yarn eject`
+What we learned
+We learned how to work as a team , completing tasks within allotted time and some new technologies like React.js .
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+What's next for STYLE LOFT
+Adding some extra options like
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Matching the Outfit
+Choosing Color Combinations
+Arranging Wardrobe etc...
+Built With
+css3
+figma
+html5
+javascript
+npm
+photoshop
+react-hooks
+react-icons
+react-router-dom
+react.js
+Try it out
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-   Matching the Outfit
+-   Choosing Color Combinations
+-   Arranging Wardrobe etc...
 
-## Learn More
+## Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Install my-project with npm
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  npm install my-project
+  cd my-project
+```
 
-### Code Splitting
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![App Screenshot](https://gcdnb.pbrd.co/images/6I8KyFCHGpVk.png)
+![App Screenshot](https://gcdnb.pbrd.co/images/AF2bC5CaapWx.png)
