@@ -2,7 +2,7 @@
 
 # Style Loft (A Fashion Month Planner)
 
-This is a Stopwatch project where by using the feature of the stopwatch, You can Start, Stop and Reset the Stopwatch.
+STYLE LOFT is not an inspiration , It's a Creation.
 
 ## Author
 
