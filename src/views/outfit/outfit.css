@@ -2,7 +2,7 @@
 	height: 100vh;
 	min-width: 1024px;
 	position: relative;
-	background-image: url("../../assets//img/background.png");
+	background-image: url("../../assets//img/gra.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -63,9 +63,10 @@
 	align-items: center;
 	justify-content: flex-start;
 	position: relative;
-	top: 200px;
+	top: 100px;
 	left: 100px;
 	gap: 20px;
+	height: 100%;
 }
 
 .model img {
